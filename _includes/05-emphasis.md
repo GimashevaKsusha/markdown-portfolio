@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*PROGRAMMING*
+
+__SoftSkills__
+
+__HardSkills__
+
+*I'm trying to do my best*
