@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cute Koala](https://www.pinterest.ru/pin/381257924708396660/)
