@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Detectives :tophat:
+  * Murder on the Orient Express
+  * Death on the Nile
+* Fantasy :sparkles:
+  * Harry Potter
+  * The Mortal Instruments
